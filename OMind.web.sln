@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Web
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{99E253B7-659A-4DB7-8A21-AFFC39243586}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{44E48A6E-196B-4149-958B-C9FA1594CEF2}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "OMind.web", "src\OMind.web\OMind.web.xproj", "{762FE03D-7C85-4083-8866-C4BAE9948723}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{762FE03D-7C85-4083-8866-C4BAE9948723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{762FE03D-7C85-4083-8866-C4BAE9948723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{762FE03D-7C85-4083-8866-C4BAE9948723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{762FE03D-7C85-4083-8866-C4BAE9948723}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{762FE03D-7C85-4083-8866-C4BAE9948723} = {99E253B7-659A-4DB7-8A21-AFFC39243586}
+	EndGlobalSection
+EndGlobal
