@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Web
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{99E253B7-659A-4DB7-8A21-AFFC39243586}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{44E48A6E-196B-4149-958B-C9FA1594CEF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OMinD.web", "OMinD.web\OMinD.web.csproj", "{8B6D364C-44DA-43C3-B519-25759A2AFEFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OMinD.web.Tests", "OMinD.web.Tests\OMinD.web.Tests.csproj", "{9BBDAFA0-4D6B-413E-A216-D706DD5019E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B6D364C-44DA-43C3-B519-25759A2AFEFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B6D364C-44DA-43C3-B519-25759A2AFEFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B6D364C-44DA-43C3-B519-25759A2AFEFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B6D364C-44DA-43C3-B519-25759A2AFEFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BBDAFA0-4D6B-413E-A216-D706DD5019E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BBDAFA0-4D6B-413E-A216-D706DD5019E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BBDAFA0-4D6B-413E-A216-D706DD5019E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BBDAFA0-4D6B-413E-A216-D706DD5019E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D6B3D71-82C1-4A31-AE47-43C5B5F20143}
+	EndGlobalSection
+EndGlobal
