@@ -12,6 +12,7 @@ namespace OMinD.web.Models
         public string PhoneNumber { get; set; }
         public bool TwoFactor { get; set; }
         public bool BrowserRemembered { get; set; }
+        public bool HasRole { get; set; }
     }
 
     public class ManageLoginsViewModel
