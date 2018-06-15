@@ -56,8 +56,8 @@ namespace OMinds.web
             //   consumerSecret: "");
 
             //app.UseFacebookAuthentication(
-            //   appId: "",
-            //   appSecret: "");
+            //   appId: "2000978680231632",
+            //   appSecret: "fa7713f42fdbe3c1831757fbf19a8423");
 
             app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
             {
